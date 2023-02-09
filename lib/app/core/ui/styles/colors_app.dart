@@ -14,6 +14,6 @@ class ColorsApp {
   Color get secondary => const Color(0XFFF88B0C);
 }
 
-extension ColorAppExtetions on BuildContext {
+extension ColorAppExtensions on BuildContext {
   ColorsApp get colors => ColorsApp.instance;
 }
