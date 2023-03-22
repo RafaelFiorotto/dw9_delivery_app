@@ -3,7 +3,6 @@ import 'package:dw9_delivery_app/app/core/ui/base_state/base_state.dart';
 import 'package:dw9_delivery_app/app/core/ui/styles/text_styles.dart';
 import 'package:dw9_delivery_app/app/core/ui/widgets/delivery_appbar.dart';
 import 'package:dw9_delivery_app/app/core/ui/widgets/delivery_button.dart';
-import 'package:dw9_delivery_app/app/dto/order_dto.dart';
 import 'package:dw9_delivery_app/app/dto/order_product_dto.dart';
 import 'package:dw9_delivery_app/app/models/payment_type_model.dart';
 import 'package:dw9_delivery_app/app/pages/order/order_controller.dart';
